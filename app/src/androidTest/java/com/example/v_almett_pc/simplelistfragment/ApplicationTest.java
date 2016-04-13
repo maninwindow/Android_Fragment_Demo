@@ -1,4 +1,4 @@
-package com.example.v_almett_pc.myfragments;
+package com.example.v_almett_pc.simplelistfragment;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
